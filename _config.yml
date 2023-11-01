@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "welcome to my website"
+title                    : "Dana's space"
 title_separator          : "-"
 name                     : &name "Dana Zhang"
 description              : &description "lecturer in Shandong Management University"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dana Zhang"
-  avatar           : "profile.png"
+  avatar           : "WechatIMG1.png"
   bio              : "Lecturer in Communication"
   location         : "CHINA"
   employer         :
