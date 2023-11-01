@@ -1,7 +1,5 @@
 ---
 title: "Jinan: Exploring Shared Spring Water, Upholding the Culture of the Spring City"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/prospring.png'>"
-collection: portfolio
+excerpt: "[News Investigation: Investigating During a Visiting Scholar Program at Shandong University](https://docs.google.com/presentation/d/1VTd29q7K3Tup-g0vtkGSxWXbfx9Ue-P_bvJ6jXEAHSk/edit#slide=id.p18)<br/><img src='/images/prospring.png'>"
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
