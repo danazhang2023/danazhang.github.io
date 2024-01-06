@@ -2,8 +2,9 @@
 title: "Social Media Analytics"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2023-Summer-teaching
+permalink: /teaching/Social Media
 venue: "XinJiang University, Department"
+date: 2023-07-16
 location:"CHINA"
 ---
 
