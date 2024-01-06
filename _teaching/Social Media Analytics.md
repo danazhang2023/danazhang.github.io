@@ -51,10 +51,11 @@ Module 3: Data Visulization
   *[Colab](https://drive.google.com/file/d/1zXRZ39bzV9humm73Dlul3TZ7WvUC-ZDI/view?usp=drive_link)
 * Week 12-13:
 	* Mon 4.10 (lab 6): Ggplot Plotting
-      * [Colab]()
+           * [Colab](https://drive.google.com/file/d/1zXRZ39bzV9humm73Dlul3TZ7WvUC-ZDI/view?usp=drive_link)
 	* Web 4.12 (lab 7): Seaborn Plotting
-	    * [Colab]()
+	    * [Colab](https://drive.google.com/file/d/1zXRZ39bzV9humm73Dlul3TZ7WvUC-ZDI/view?usp=drive_link)
 * Week 14: 
 	* Mon 4.17 (lab 8): Pycharts Plotting
+        *[Colab](https://drive.google.com/file/d/1N75YCuXh3FNb2E3JLEAxbdBH1RSZaqCl/view?usp=drive_link)
 * Week 15: No class - final project working week
 * Week 16: Final project presentation 
