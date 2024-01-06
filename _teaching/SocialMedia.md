@@ -32,7 +32,7 @@ Moudel 1:Data Collection
 	  * [Colab](https://drive.google.com/file/d/1aSPwAv0kpypo1V-393_qz1r97KhsUTuq/view?usp=drive_link)
        
 Module 2: Data Analysis
---------
+======
 * Week 7-8: 
 	* Mon 2.27 (in-person lecture): Exploratory Data Analysis
 	   * [Lecture slides](https://docs.google.com/presentation/d/11UnFUghEPlVCC3awjal8LPGkvkEdIjMi/edit#slide=id.p3)
@@ -44,7 +44,7 @@ Module 2: Data Analysis
 	    * [Colab](https://drive.google.com/file/d/1V4ysjTyH79NPE34TRSR3_YStGi9NCCef/view?usp=drive_link)
    
 Module 3: Data Visulization
---------
+======
 * Week 10-11:
   Mon 3.15 (in-person lecture): Pandas Plotting
     * [Lecture slides](https://docs.google.com/presentation/d/1tlW6lzd93qrLBHTqqxS5HFw7zv_ywQKh/edit?usp=drive_link&ouid=114099119643579951519&rtpof=true&sd=true)
