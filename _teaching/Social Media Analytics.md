@@ -8,8 +8,6 @@ date: 2023-07-01
 location:CHINA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
 Module 0: Introduction & Preparation 
 ======
 * Week 1:  
@@ -44,7 +42,8 @@ Module 2: Data Analysis
 * Week 8-9:
 	* Mon 3.6 (in-person lecture): Construction of a Frequency Distribution Table
 	    * [Colab](https://drive.google.com/file/d/1V4ysjTyH79NPE34TRSR3_YStGi9NCCef/view?usp=drive_link)
-Module 3: Data  Visualization
+   
+Module 3: Data Visulization
 --------
 * Week 10-11:
   Mon 3.15 (in-person lecture): Pandas Plotting
