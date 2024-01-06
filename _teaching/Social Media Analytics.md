@@ -5,7 +5,7 @@ type: "Workshop"
 permalink: /teaching/2023-Summer-teaching
 venue: "XinJiang University, Department"
 date: 2023-07-01
-location:CHINA"
+location:"CHINA"
 ---
 
 Module 0: Introduction & Preparation 
