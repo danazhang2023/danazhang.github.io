@@ -35,28 +35,32 @@ Moudel 1:Data Collection
 Module 2: Data Analysis
 ======
 * Week 7-8: 
-	* Mon 2.27 (in-person lecture): Exploratory Data Analysis
-	        * [Lecture slides](https://docs.google.com/presentation/d/11UnFUghEPlVCC3awjal8LPGkvkEdIjMi/edit#slide=id.p3)
-                * [Colab](https://drive.google.com/file/d/13bfkpimLgFNKaQ3lUn2LE-fevPq4WSPj/view?usp=drive_link)
-	* Web 3.1 (lab 5): Count Data Summary Analysis and Measurement Data Summary Analysis
-	        * [Colab](https://drive.google.com/file/d/1V4ysjTyH79NPE34TRSR3_YStGi9NCCef/view?usp=drive_link)
+    * Mon 2.27 (in-person lecture): Exploratory Data Analysis
+        * [Lecture slides](https://docs.google.com/presentation/d/11UnFUghEPlVCC3awjal8LPGkvkEdIjMi/edit#slide=id.p3)
+        * [Colab](https://drive.google.com/file/d/13bfkpimLgFNKaQ3lUn2LE-fevPq4WSPj/view?usp=drive_link)
+    * Wed 3.1 (lab 5): Count Data Summary Analysis and Measurement Data Summary Analysis
+        * [Colab](https://drive.google.com/file/d/1V4ysjTyH79NPE34TRSR3_YStGi9NCCef/view?usp=drive_link)
+
 * Week 8-9:
-	* Mon 3.6 (in-person lecture): Construction of a Frequency Distribution Table
-	       * [Colab](https://drive.google.com/file/d/1V4ysjTyH79NPE34TRSR3_YStGi9NCCef/view?usp=drive_link)
-   
-Module 3: Data Visulization
+    * Mon 3.6 (in-person lecture): Construction of a Frequency Distribution Table
+        * [Colab](https://drive.google.com/file/d/1V4ysjTyH79NPE34TRSR3_YStGi9NCCef/view?usp=drive_link)
+
+Module 3: Data Visualization
 ======
 * Week 10-11:
-        * Mon 3.15 (in-person lecture): Pandas Plotting
-               * [Lecture slides](https://docs.google.com/presentation/d/1tlW6lzd93qrLBHTqqxS5HFw7zv_ywQKh/edit?usp=drive_link&ouid=114099119643579951519&rtpof=true&sd=true)
-               * [Colab](https://drive.google.com/file/d/1zXRZ39bzV9humm73Dlul3TZ7WvUC-ZDI/view?usp=drive_link)
+    * Mon 3.15 (in-person lecture): Pandas Plotting
+        * [Lecture slides](https://docs.google.com/presentation/d/1tlW6lzd93qrLBHTqqxS5HFw7zv_ywQKh/edit?usp=drive_link&ouid=114099119643579951519&rtpof=true&sd=true)
+        * [Colab](https://drive.google.com/file/d/1zXRZ39bzV9humm73Dlul3TZ7WvUC-ZDI/view?usp=drive_link)
+
 * Week 12-13:
-	* Mon 4.10 (lab 6): Ggplot Plotting
-               * [Colab](https://drive.google.com/file/d/1zXRZ39bzV9humm73Dlul3TZ7WvUC-ZDI/view?usp=drive_link)
-	* Web 4.12 (lab 7): Seaborn Plotting
-	       * [Colab](https://drive.google.com/file/d/1zXRZ39bzV9humm73Dlul3TZ7WvUC-ZDI/view?usp=drive_link)
+    * Mon 4.10 (lab 6): Ggplot Plotting
+        * [Colab](https://drive.google.com/file/d/1zXRZ39bzV9humm73Dlul3TZ7WvUC-ZDI/view?usp=drive_link)
+    * Wed 4.12 (lab 7): Seaborn Plotting
+        * [Colab](https://drive.google.com/file/d/1zXRZ39bzV9humm73Dlul3TZ7WvUC-ZDI/view?usp=drive_link)
+
 * Week 14: 
-	* Mon 4.17 (lab 8): Pyecharts Plotting
-           * [Colab](https://drive.google.com/file/d/1N75YCuXh3FNb2E3JLEAxbdBH1RSZaqCl/view?usp=drive_link)
+    * Mon 4.17 (lab 8): Pyecharts Plotting
+        * [Colab](https://drive.google.com/file/d/1N75YCuXh3FNb2E3JLEAxbdBH1RSZaqCl/view?usp=drive_link)
+
 * Week 15: No class - final project working week
-* Week 16: Final project presentation 
+* Week 16: Final project presentation
