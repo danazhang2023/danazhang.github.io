@@ -26,11 +26,12 @@ Moudel 1:Data Collection
 	* Mon 2.7 (in-person lecture): Collect data using descendant crawlers
 	* Web 2.14 (lab 2): Collect data using questionnaire surveys
 * Week 5-6:
-	* Mon 2.21 (lab3): Collect data using API interfaces on Bilibili
-		* [Colab](https://drive.google.com/file/d/1d9KN7e7kSV_ZTlCAQMjESv0llLoZtTUU/view?usp=drive_link) 
-	* Web 2.28 (lab 4):Collect data using API interfaces on Douban
-	        * [Colab](https://drive.google.com/file/d/1aSPwAv0kpypo1V-393_qz1r97KhsUTuq/view?usp=drive_link)
-       
+    * Mon 2.21 (lab3): Collect data using API interfaces on Bilibili
+        * [Colab](https://drive.google.com/file/d/1d9KN7e7kSV_ZTlCAQMjESv0llLoZtTUU/view?usp=drive_link)
+        
+    * Wed 2.28 (lab 4): Collect data using API interfaces on Douban
+        * [Colab](https://drive.google.com/file/d/1aSPwAv0kpypo1V-393_qz1r97KhsUTuq/view?usp=drive_link)
+
 Module 2: Data Analysis
 ======
 * Week 7-8: 
