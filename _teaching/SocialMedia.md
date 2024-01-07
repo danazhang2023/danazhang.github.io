@@ -3,7 +3,7 @@ title: "Social Media Analytics"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/SocialMedia
-venue: "XinJiang University, Department"
+venue: "Shandong Management University"
 date: 2023-07-16
 location: "CHINA"
 ---
