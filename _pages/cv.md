@@ -10,6 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-<iframe src="http://danazhang2023.github.io/files/resume2.pdf" width="100%" height="600px">
+<iframe src="http://danazhang2023.github.io/files/resume.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it: <a href="http://danazhang2023.github.io/files/resume.pdf">Download PDF</a>
 </iframe>
