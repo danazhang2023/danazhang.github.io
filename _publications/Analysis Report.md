@@ -7,6 +7,3 @@ permalink: /publication/Analysis Report
 date: 2022-10-01 
 paperurl: 'http://danazhang2023.github.io/files/dzdp.pdf'
 ---
-
-[Download paper here](http://danazhang2023.github.io/files/dzdp.pdf)
-
